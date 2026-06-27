@@ -1,0 +1,51 @@
+# Task 1: Elite Landing Page (ESCARAE)
+
+A premium, modern landing page built for **ESCARAE**, a digital agency specializing in fast, responsive, and secure web experiences. The page features rich typography, modular styling, and lightweight animations that bring the interface to life.
+
+---
+
+## 📂 File Directory
+
+- [index.html](file:///c:/DESKTOP/TANTRESH/PROJECTS/TANTRESH_CODVEDA_INTERNSHIP/LEVEL_1/TASK_1/index.html): Document structure with semantic HTML5 elements.
+- [style.css](file:///c:/DESKTOP/TANTRESH/PROJECTS/TANTRESH_CODVEDA_INTERNSHIP/LEVEL_1/TASK_1/style.css): Vanilla styling, layout grids, variables, and responsive media queries.
+- [script.js](file:///c:/DESKTOP/TANTRESH/PROJECTS/TANTRESH_CODVEDA_INTERNSHIP/LEVEL_1/TASK_1/script.js): Scroll events, mobile navigation drawer controls, and form handling.
+
+---
+
+## ✨ Features & Functionality
+
+1. **Responsive Navigation Menu**:
+   - Includes a logo, header navigation links, and a mobile hamburger menu (`☰`).
+   - Toggles into a responsive layout drawer on mobile viewports. Clicking a link closes the drawer automatically.
+2. **Interactive Call-to-Action Buttons**:
+   - Micro-interactions added to all button clicks (scales down slightly and returns to normal state on click).
+3. **Scroll Reveal Animation**:
+   - Uses custom JavaScript to monitor viewport scrolls and toggle the `.active` class on `.reveal` elements (Features, About Us, Reviews, Contact).
+   - Elements slide upward and fade in smoothly as they enter the browser viewport.
+4. **Interactive Contact Form**:
+   - Submissions are intercepted via JavaScript (`e.preventDefault()`).
+   - Validates input entries and triggers a confirmation message alert (`Message Sent Successfully 🚀`).
+
+---
+
+## 🛠️ Technology Stack
+
+- **Structure**: Semantic HTML5 (header, nav, section, footer, grids)
+- **Styling**: Vanilla CSS3, custom CSS variables, Poppins font from Google Fonts
+- **Interactivity**: Vanilla JavaScript (ES6)
+
+---
+
+## 🚀 How to Run
+
+Open [index.html](file:///c:/DESKTOP/TANTRESH/PROJECTS/TANTRESH_CODVEDA_INTERNSHIP/LEVEL_1/TASK_1/index.html) directly in your browser. 
+
+If running a local server:
+```bash
+# From the root directory
+npx serve .
+# Or open Level 1 / Task 1 folder
+cd LEVEL_1/TASK_1
+npx serve .
+```
+Then open `http://localhost:3000` (or the served port) in your browser.
