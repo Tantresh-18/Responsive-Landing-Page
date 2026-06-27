@@ -1,18 +1,18 @@
-# Task 1: Elite Landing Page (ESCARAE)
+# Elite Landing Page 
 
 A premium, modern landing page built for **ESCARAE**, a digital agency specializing in fast, responsive, and secure web experiences. The page features rich typography, modular styling, and lightweight animations that bring the interface to life.
 
 ---
 
-## 📂 File Directory
+## FILES
 
-- [index.html](file:///c:/DESKTOP/TANTRESH/PROJECTS/TANTRESH_CODVEDA_INTERNSHIP/LEVEL_1/TASK_1/index.html): Document structure with semantic HTML5 elements.
-- [style.css](file:///c:/DESKTOP/TANTRESH/PROJECTS/TANTRESH_CODVEDA_INTERNSHIP/LEVEL_1/TASK_1/style.css): Vanilla styling, layout grids, variables, and responsive media queries.
-- [script.js](file:///c:/DESKTOP/TANTRESH/PROJECTS/TANTRESH_CODVEDA_INTERNSHIP/LEVEL_1/TASK_1/script.js): Scroll events, mobile navigation drawer controls, and form handling.
+- [index.html]: Document structure with semantic HTML5 elements.
+- [style.css]: Vanilla styling, layout grids, variables, and responsive media queries.
+- [script.js]: Scroll events, mobile navigation drawer controls, and form handling.
 
 ---
 
-## ✨ Features & Functionality
+##  Features & Functionality
 
 1. **Responsive Navigation Menu**:
    - Includes a logo, header navigation links, and a mobile hamburger menu (`☰`).
@@ -28,7 +28,7 @@ A premium, modern landing page built for **ESCARAE**, a digital agency specializ
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Structure**: Semantic HTML5 (header, nav, section, footer, grids)
 - **Styling**: Vanilla CSS3, custom CSS variables, Poppins font from Google Fonts
@@ -36,9 +36,9 @@ A premium, modern landing page built for **ESCARAE**, a digital agency specializ
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
-Open [index.html](file:///c:/DESKTOP/TANTRESH/PROJECTS/TANTRESH_CODVEDA_INTERNSHIP/LEVEL_1/TASK_1/index.html) directly in your browser. 
+Open [index.html] directly in your browser. 
 
 If running a local server:
 ```bash
