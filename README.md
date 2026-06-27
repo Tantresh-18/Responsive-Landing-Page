@@ -40,12 +40,4 @@ A premium, modern landing page built for **ESCARAE**, a digital agency specializ
 
 Open [index.html] directly in your browser. 
 
-If running a local server:
-```bash
-# From the root directory
-npx serve .
-# Or open Level 1 / Task 1 folder
-cd LEVEL_1/TASK_1
-npx serve .
 ```
-Then open `http://localhost:3000` (or the served port) in your browser.
